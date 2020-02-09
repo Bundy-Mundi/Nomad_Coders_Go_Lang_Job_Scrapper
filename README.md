@@ -6,6 +6,6 @@
 
 #### 3. Writing Jobs
 
-**#### 4. CHANNELS TIME**
+**4. CHANNEL TIME**
 
 #### 5. Recap
